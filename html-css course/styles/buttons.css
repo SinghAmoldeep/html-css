@@ -1,0 +1,158 @@
+
+      .request-button {
+        background-color:black;
+        color:white;
+        padding-left:20px;
+        padding-right:20px;
+        padding-top:14px;
+        padding-bottom:14px;
+    
+        border:none;
+        margin-right:10px;
+        cursor:pointer;
+        transition:opacity 0.15s;
+        vertical-align:top;
+    
+      }
+    
+      .request-button:hover {
+        opacity : 0.7;
+    
+    
+      }
+    
+    
+    
+    
+      .add-button {
+        background-color:rgb(255, 216, 20);
+        padding-left:55px;
+        padding-right:55px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:25px;
+        border:none;
+        margin-right:10px;
+        cursor:pointer;
+        transition:background-color 0.15s;
+      }
+    
+      .add-button:hover {
+        background-color:rgb(242, 206, 25);
+      }
+    
+    
+    
+      .signup-button {
+        background-color:rgb(46, 164, 79);
+        color:white;
+        padding-left:20px;
+        padding-right:20px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:8px;
+        border:none;
+        cursor:pointer;
+        transition: box-shadow 0.15s;
+      }
+    
+    
+      .signup-button:hover{
+        box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+    
+    
+    
+      }
+      .started-button {
+        background-color:rgba(121, 82, 179);
+        color:white;
+        padding-left:30px;
+        padding-right:30px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:3px;
+        border:none;
+        margin-left:10px;
+        margin-right:10px;
+        cursor:pointer;
+        transition:0.15s;
+    
+      }
+    
+    
+      .started-button:hover {
+        background-color: rgb(93, 69, 130);
+      }
+    
+    
+      .download-button {
+        color:rgb(108, 117, 125);
+        background-color:white;
+        padding-left:30px;
+        padding-right:30px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:3px;
+        border-color:rgb(108, 117, 125);
+        border-style:solid;
+        cursor:pointer;
+        transition:background-color 0.15s,color 0.15s;
+    
+    
+    
+      }
+    
+      .download-button:hover {
+        background-color:rgb(108, 117, 125);
+        color:white;
+    
+    
+    
+      }
+      .apply-button {
+        background-color:rgb(10, 102, 194);
+        color:white;
+        padding-left:20px;
+        padding-right:20px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:19px;
+        border:none;
+        margin-top:10px;
+        margin-right:10px;
+        cursor:pointer;
+        transition:background-color 0.15s;
+      }
+    
+      .apply-button:hover {
+        background-color:rgb(3, 59, 180);
+    
+    
+    
+    
+      }
+    
+      .save-button {
+        color:rgb(10, 102, 194);
+        background-color:white;
+        padding-left:20px;
+        padding-right:20px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:19px;
+        border-color:rgb(108, 117, 125);
+        border-style:solid;
+        cursor:pointer;
+        transition:background-color 0.15s,border-color 0.15s;
+      
+      
+      }
+    
+      .save-button:hover {
+        background-color:rgba(108, 117, 125,0.2);
+        border-color:rgb(10, 102, 194);
+        border-width:2.4px;
+    
+    
+      }
+    

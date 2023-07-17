@@ -1,0 +1,57 @@
+.link {
+  color:rgb(0, 113, 133);
+}
+
+.p1 {
+  color:rgb(0, 118, 0);
+  font-weight:bold;
+}
+.add-button {
+  background-color:rgb(255, 216, 20);
+  height:30px;
+  width:110px;
+  border-radius:15px;
+  border:none;
+  margin-right:7px;
+  transition:background-color 0.15s,opacity 0.15s; 
+
+}
+
+.add-button:hover{
+  background-color:rgb(243, 206, 23);
+
+
+}
+.add-button:active{
+  opacity:0.6;
+}
+
+.buy-button {
+  background-color:rgb(255, 164, 28);
+  height:30px;
+  width:110px;
+  border-radius:15px;
+  border:none;
+  transition:background-color 0.15s,opacity 0.6;
+}
+
+.buy-button:hover{
+  background-color:rgb(223, 145, 27);
+}
+
+.buy-button:active{
+  opacity:0.6;
+}
+
+.p2 {
+  font-size:20px;
+  font-weight:bold;
+}
+
+.link:hover {
+  color:rgb(186, 26, 26);
+
+
+
+
+}
