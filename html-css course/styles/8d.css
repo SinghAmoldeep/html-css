@@ -1,0 +1,84 @@
+.email1 {
+  width:100px;
+  height:20px;
+  margin-bottom:5px;
+  border-color:rgb(235, 233, 233);
+  border-style:solid;
+  border-radius:6px;
+  padding-left:10px;
+  padding-top:6px;
+  padding-bottom:6px;
+}
+.email {
+  width:220px;
+  height:20px;
+  margin-bottom:8px;
+  border-color:rgb(235, 233, 233);
+  border-style:solid;
+  border-radius:6px;
+  padding-left:10px;
+  padding-top:6px;
+  padding-bottom:6px;
+
+}
+.signup {
+  background-color:rgb(0, 106, 255);
+  color:white;
+  padding-left:92px;
+  padding-right:93px;
+  padding-top:8px;
+  padding-bottom:8px;
+  font-weight:bold;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+}
+.Ride {
+  font-family: Arial;
+  font-size:30px;
+  
+
+}
+.pickup {
+  background-color:rgb(231, 230, 228);
+  border:none;
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-left:8px;
+  padding-right:100px;
+  margin-bottom:10px;
+
+}
+.destination {
+  background-color:rgb(231, 230, 228);
+  border:none;
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-left:8px;
+  padding-right:100px;
+  margin-bottom:25px;
+
+
+}
+.black {
+  background-color:black;
+  color:white;
+  border:none;
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-left:14px;
+  padding-right:14px;
+  margin-right:5px;
+  margin-bottom:50px;
+  cursor:pointer;
+}
+.white {
+  background-color:rgb(217, 210, 197);
+  color:black;
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-left:14px;
+  padding-right:14px;
+  border:none;
+  cursor:pointer;
+}
