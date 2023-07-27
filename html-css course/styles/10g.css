@@ -1,0 +1,62 @@
+/*
+   <div class="div1">
+      <img class="catpic1"  src="cat.jpg">
+      <p class="name">Oliver</p>
+      <img class="dogpic" src="dogpic.jpg">
+      <p class="friends">2 mutual friends</p>
+      <button class="Addfriend">Add friend</button>
+  
+    </div>
+*/
+div {
+  display:inline-block;
+  margin-left:5px;
+}
+ p {
+  margin-top:0px;
+  margin-bottom:0px;
+
+}
+img {
+  margin-top:0px;
+  margin-bottom:0px;
+
+}
+.catpic1 {
+  width:200px;
+  height:200px;
+  object-fit:cover;
+  margin-bottom:2px;
+
+}
+.name {
+  font-family:Arial;
+  font-weight:bold;
+  margin-bottom:5px;
+}
+.dogpic {
+  width:30px;
+  height:30px;
+  border-radius:30px;
+  object-fit:cover;
+  display:inline-block;
+  vertical-align:top;
+  
+}
+.friends {
+  color:rgb(187, 184, 184);
+  display:inline-block;
+  margin-bottom:5px;
+}
+.Addfriend {
+  background-color:rgb(42, 113, 219);
+  display:block;
+  border:none;
+  color:white;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:20px;
+  padding-right:20px;
+  border-radius:3px;
+  margin-top:5px;
+}
